@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Bayu Nabiil👋
 
-<!--
-**Anovvy/Anovvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Geospatial Data Scientist and GIS/GeoAI Developer passionate about blending Deep Learning with spatial analytics. I develop some automation tools for processing spatial data using deep learning
 
-Here are some ideas to get you started:
+## Tech Stack & Tools
+- QGIS
+- ArcGIS
+- Google Earth Engine
+- Visual Studio Code
+- Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Anovvy/PalmAI_Plugin">PalmAI - QGIS Plugin</a></b><br>
+      Automated spatial feature extraction for oil palm plantations using YOLOv8 & DeepLabV3+. Includes Tree Counting, Classification, and Hybrid Road Detection.
+      <br><br>
+      <a href="https://github.com/Anovvy/PalmAI_Plugin">
+        <img src="https://github.com/user-attachments/assets/c86298de-a5dd-4ee9-906c-cdcd91f2a6af" width="70%" alt="PalmAI">
+      </a>
+    </td>

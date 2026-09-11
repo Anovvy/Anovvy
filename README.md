@@ -10,7 +10,7 @@ I am a Geospatial Data Scientist and GIS/GeoAI Developer passionate about blendi
 - Google Colab
 
 ## Featured Projects
-<table width="100%">
+<table width="70">
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/Anovvy/PalmAI_Plugin">PalmAI - QGIS Plugin</a></b><br>
@@ -20,3 +20,9 @@ I am a Geospatial Data Scientist and GIS/GeoAI Developer passionate about blendi
         <img src="https://github.com/user-attachments/assets/c86298de-a5dd-4ee9-906c-cdcd91f2a6af" width="70%" alt="PalmAI">
       </a>
     </td>
+  <tr>
+ <table width="100%">
+   
+## How to reach me:
+LinkedIn: www.linkedin.com/in/bayunabiil
+Email: bayunabiil1365@gmail.com

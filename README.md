@@ -1,10 +1,11 @@
 ## Hi I'm Bayu Nabiil👋
 
-I am a Geospatial Data Scientist and GIS/GeoAI Developer passionate about blending Deep Learning with spatial analytics. I develop some automation tools for processing spatial data using deep learning
+I am a Geospatial Data Scientist and GIS/GeoAI Engineer passionate about blending Deep Learning with spatial analytics. I develop some automation tools for processing spatial data using deep learning
 
 ## Tech Stack & Tools
 - QGIS
 - ArcGIS
+- Python
 - Google Earth Engine
 - Visual Studio Code
 - Google Colab

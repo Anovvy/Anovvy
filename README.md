@@ -2,13 +2,13 @@
 
 # Bayu Nabiil
 
-**Geospatial Data & ML Engineer · GeoAI, Remote Sensing & Production GIS Tooling**
+**Geospatial Data & ML Engineer · GeoAI, Remote Sensing & GIS Automation**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-olive-ten-24.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayunabiil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bayunabiil1365@gmail.com)
 
-I design and ship production-grade geospatial automation systems that bridge **Deep Learning**, **Earth Observation**, and **Desktop GIS**. My work focuses on containerized computer vision pipelines for satellite and UAV imagery, multi-sensor data ingestion workflows, and zero-conflict QGIS plugins backed by automated testing and reproducible provenance.
+Geospatial Data & ML Engineer specializing in **GeoAI**, **Remote Sensing**, and **GIS Workflow Automation**. I build end-to-end spatial data pipelines, deep learning solutions for drone and satellite imagery, and custom desktop GIS tools that streamline mapping, vector topology quality control, and spatial analytics.
 
 </div>
 
@@ -16,11 +16,11 @@ I design and ship production-grade geospatial automation systems that bridge **D
 
 ## Core Engineering Focus
 
-| Domain | Scope & Engineering Practice |
+| Domain | Focus Areas |
 |---|---|
-| **GeoAI & Computer Vision** | Object detection and semantic segmentation on UAV orthophotos and 30 cm VHR satellite imagery using PyTorch, YOLOv8, SegFormer, DeepLabV3+, U-Net, and SAHI. |
-| **Earth Observation Pipelines** | Multi-sensor satellite acquisition, cloud masking, server-side compositing, and georeferenced chipping with Google Earth Engine, GDAL, Rasterio, and Roboflow. |
-| **Production GIS & MLOps** | Dependency-isolated QGIS plugins (Qt5/Qt6 & Docker backends), deterministic vector topology QA/QC, CI/CD pipelines, and SHA-256 execution provenance. |
+| **GeoAI & Computer Vision** | Automated spatial feature extraction, object detection, and land-cover semantic segmentation across drone and satellite imagery. |
+| **Earth Observation & Spatial Data Pipelines** | Multi-sensor satellite ingestion, cloud-free compositing, and georeferenced dataset preparation for machine learning workflows. |
+| **GIS Automation & Spatial Tooling** | Custom desktop GIS plugins, automated vector topology auditing and cleaning, and mapping workflow acceleration across QGIS and ArcGIS. |
 
 ---
 
@@ -71,15 +71,6 @@ Decoupled QGIS plugin (<code>v2.0.0</code>) powered by an isolated Docker/Virtua
 
 ---
 
-## Additional Tools & Portfolio
-
-| Project | Description | Stack |
-|---|---|---|
-| **[ArcMap LULC Keyshortcuts](https://github.com/Anovvy/ArcMap-LULC-Keyshortcuts)** | Ergonomic desktop GIS workflow toolkit bringing OpenStreetMap iD Editor home-row shortcuts (`W-A-S-D`, `1-3`, `Space`) to ArcMap 10.x wall-to-wall LULC Cut & Merge digitizing. | `Python Add-In`, `AutoHotkey v2`, `ArcMap 10.x` |
-| **[Interactive Portfolio](https://my-portfolio-olive-ten-24.vercel.app)** | Web portfolio showcasing GeoAI deployments, mapping consultancy experience, and spatial engineering projects. | `JavaScript`, `HTML/CSS`, `Vercel` |
-
----
-
 ## Tech Stack
 
 | Category | Technologies |
@@ -93,7 +84,7 @@ Decoupled QGIS plugin (<code>v2.0.0</code>) powered by an isolated Docker/Virtua
 
 <div align="center">
 
-Open to collaborations on **GeoAI**, **Remote Sensing Automation**, and **Open-Source GIS Tooling**.
+Open to collaborations on **GeoAI**, **Remote Sensing**, and **GIS Automation**.
 
 [Portfolio](https://my-portfolio-olive-ten-24.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bayunabiil) · [Email](mailto:bayunabiil1365@gmail.com)
 

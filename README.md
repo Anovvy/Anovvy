@@ -71,15 +71,6 @@ Decoupled QGIS plugin (<code>v2.0.0</code>) powered by an isolated Docker/Virtua
 
 ---
 
-## Additional Tools & Portfolio
-
-| Project | Description | Stack |
-|---|---|---|
-| **[ArcMap LULC Keyshortcuts](https://github.com/Anovvy/ArcMap-LULC-Keyshortcuts)** | Ergonomic desktop GIS workflow toolkit bringing OpenStreetMap iD Editor home-row shortcuts (`W-A-S-D`, `1-3`, `Space`) to ArcMap 10.x wall-to-wall LULC Cut & Merge digitizing. | `Python Add-In`, `AutoHotkey v2`, `ArcMap 10.x` |
-| **[Interactive Portfolio](https://my-portfolio-olive-ten-24.vercel.app)** | Web portfolio showcasing GeoAI deployments, mapping consultancy experience, and spatial engineering projects. | `JavaScript`, `HTML/CSS`, `Vercel` |
-
----
-
 ## Tech Stack
 
 | Category | Technologies |
